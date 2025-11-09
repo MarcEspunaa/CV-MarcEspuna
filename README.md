@@ -27,11 +27,11 @@ Laura expects a **professional, structured, and easy-to-navigate** CV website. S
 The website is organized as a **single-page layout**, where each section is clearly differentiated both visually and structurally.  
 The navigation bar allows smooth scrolling between the main areas:
 
-1. **About Me**: Introduction of Marc Espuña, describing his personality, goals, and main interests.  
-2. **Education**: Timeline of academic background, including the Bachelor’s degree in Computer Engineering and previous studies.  
-3. **Skills**: Divided into *technical skills* (programming, AI, 3D printing) and *soft skills* (teamwork, empathy, organization).  
-4. **Experience**: List of professional experiences and responsibilities in previous jobs.  
-5. **Contact**: Final section that provides phone number, email, and address to get in touch.
+1. **About Me** - Introduction of Marc Espuña, describing his personality, goals, and main interests.  
+2. **Education** - Timeline of academic background, including the Bachelor’s degree in Computer Engineering and previous studies.  
+3. **Skills** - Divided into *technical skills* (programming, AI, 3D printing) and *soft skills* (teamwork, empathy, organization).  
+4. **Experience** - List of professional experiences and responsibilities in previous jobs.  
+5. **Contact** - Final section that provides phone number, email, and address to get in touch.
 
 This structure ensures that the visitor can quickly get a complete picture of the candidate without losing orientation.  
 Smooth scrolling and consistent spacing enhance the navigation experience, making it intuitive for all visitors.
