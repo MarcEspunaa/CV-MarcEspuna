@@ -53,7 +53,7 @@ Consistency in spacing, alignment, and color ensures readability and aesthetic c
 ---
 
 ## Tools Used
-- **Figma**: Visual design and prototyping.  
+- **Figma**: Visual design, mockup.  
 - **HTML & CSS**: Front-end implementation.  
 - **GitHub Pages**: Website hosting.  
 
@@ -66,4 +66,5 @@ Consistency in spacing, alignment, and color ensures readability and aesthetic c
 
 ## Live Website
 [Visit the CV Website on GitHub Pages](https://marcespunaa.github.io/CV-MarcEspuna/) <!-- Replace this with your actual published link -->
+
 
