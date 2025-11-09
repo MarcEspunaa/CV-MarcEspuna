@@ -65,7 +65,7 @@ Consistency in spacing, alignment, and color ensures readability and aesthetic c
 ---
 
 ## Live Website
-[Visit the CV Website on GitHub Pages]([https://yourusername.github.io/your-repo-name/](https://marcespunaa.github.io/CV-MarcEspuna/)) <!-- Replace this with your actual published link -->
+[Visit the CV Website on GitHub Pages](https://marcespunaa.github.io/CV-MarcEspuna/)
 
 
 
