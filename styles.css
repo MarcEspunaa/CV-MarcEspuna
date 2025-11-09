@@ -1,0 +1,177 @@
+/* ==============================
+   GLOBAL STYLES
+============================== */
+html {
+  scroll-behavior: smooth;   /* Makes the page scroll smoothly when navigating to anchors*/
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #E7FAFF;
+}
+
+
+/* ==============================
+   HEADER
+============================== */
+/* The header will contain the diagonal */
+header {
+  position: relative;
+  background: #E7FAFF;
+  padding-top: 24px;
+}
+
+/* Blue diagonal covering the full height of the header (including the nav) */
+header::after {
+  content: "";
+  position: absolute;
+  inset: 0;  /* covers the entire header from top to bottom */
+  background: #BDECFF;
+  clip-path: polygon(68% 0, 100% 0, 100% 88.4%, 52% 88.4%);  /* diagonal shape */
+}
+
+
+
+/* ==============================
+   NAVIGATION BAR
+============================== */
+nav {
+  position: sticky;  /* Keeps the element fixed while scrolling until its parent is out of view */
+  top: 0px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0px 450px;
+  padding: 10px 20px;
+  border-radius: 40px;
+  background-color: #CAE7FF;
+  z-index: 2;  /* Above the everything */
+}
+
+nav a {
+  text-decoration: none;  /* Disables the underline */
+  font-size: 16px;
+  color: #000000;
+}
+
+nav a:hover {
+  color: #007ACC;
+}
+
+
+
+/* ==============================
+   HERO (#top)
+============================== */
+#top {
+  position: relative;  /* Needed to position the diagonal shape inside */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;  /* Separates text and image */
+  background-color: #E7FAFF;  /* Base color for the left side */
+  padding: 40px 50px 80px 50px;
+  margin-bottom: 100px;
+}
+
+/* Elements inside the top section */
+#top-text,
+#top-image {
+  position: relative;
+  z-index: 1;   /* Above the diagonal shape */
+}
+
+#top-image {
+    margin-top: 80px;
+    margin-bottom: 0px;
+}
+
+
+
+/* ==============================
+   TITLES & TEXTS
+============================== */
+#job-title {
+    color: #002A4D;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+#subtitle {
+    color: #004882;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+h1 {
+    color: #00315A;
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 0px;   
+}
+
+h2 {
+    color: #003B52;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+
+
+/* ==============================
+   BUTTONS
+============================== */
+button {
+  font-family: 'Inter', sans-serif;
+  background-color: #2ABFFF;
+  border: none;
+  color: white;
+  font-weight: 500; 
+  font-size: 22px;
+  padding: 12px 24px;
+  border-radius: 25px;
+  margin-right: 15px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #007cb1;
+}
+
+
+
+/* ==============================
+   SECTIONS (About, Education, Skills, etc.)
+============================== */
+section {
+  color: #003C53;
+  background-color: #F4FCFF;
+  margin: 40px auto;
+  padding: 30px 50px;
+  border-radius: 30px;
+  width: 80%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.20);
+}
+
+/* Layout for Education + Skills side by side */
+#Education-Skills {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0px auto;
+  width: 86.5%;
+}
+
+#Education, #Skills {
+  width: 45%;
+  margin: 0px auto;
+}
+
+
