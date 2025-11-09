@@ -9,8 +9,8 @@ The website presents Marc’s professional profile, education, skills, and work 
 ## Project Analysis – User Profile
 
 ### User Persona
-**Name:** Laura Fernández
-**Age:** 32
+**Name:** Laura Fernández   
+**Age:** 32   
 **Occupation:** HR Manager at a tech company
 **Goals:**
 - Quickly understand the candidate’s background, technical expertise, and experience.
