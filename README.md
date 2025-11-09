@@ -24,36 +24,44 @@ Laura expects a **professional, structured, and easy-to-navigate** CV website. S
 
 ## Project Analysis - Information Architecture
 
-The website is organized as a **single-page layout**, where each section is clearly differentiated both visually and structurally.  
-The navigation bar allows smooth scrolling between the main areas:
+The website has a **single-page layout**, divided into clear sections that users can easily access through the navigation bar at the top.  
+When a visitor clicks on a menu option, the page scrolls smoothly to the selected section, making navigation simple and intuitive.  
+The information is organized in a logical way to guide the user from personal introduction to professional details.  
 
-1. **About Me** - Introduction of Marc Espuña, describing his personality, goals, and main interests.  
-2. **Education** - Timeline of academic background, including the Bachelor’s degree in Computer Engineering and previous studies.  
-3. **Skills** - Divided into *technical skills* (programming, AI, 3D printing) and *soft skills* (teamwork, empathy, organization).  
-4. **Experience** - List of professional experiences and responsibilities in previous jobs.  
-5. **Contact** - Final section that provides phone number, email, and address to get in touch.
+The first part, **About Me**, gives an overview of Marc Espuña as a person. It describes his personality, motivation, and main interests, helping the reader quickly understand who he is.  
+Then, the **Education** section lists his studies, starting from secondary school to his current Bachelor’s degree in Computer Engineering. It shows his academic progress and interest in technology.  
 
-This structure ensures that the visitor can quickly get a complete picture of the candidate without losing orientation.  
-Smooth scrolling and consistent spacing enhance the navigation experience, making it intuitive for all visitors.
+The next section, **Skills**, is divided into two categories. The first one, *Technical Skills*, presents his programming knowledge, basic AI understanding, and 3D design abilities. The second one, *Soft Skills*, highlights his teamwork, empathy, and organization skills. This division helps the visitor clearly see both his technical and personal strengths.  
+
+The **Experience** section includes a list of his previous jobs, each with a short explanation of his responsibilities and what he learned. This section shows that Marc already has real work experience in different areas.  
+
+Finally, the **Contact** section offers his phone number, email address, and location, making it easy for visitors to reach him.  
+
+The structure follows a natural and professional flow: from personal introduction, to education, skills, experience, and contact information. The page uses similar spacing, color tones, and smooth scrolling to create an easy reading experience.  
+Each section is well separated but visually connected, making the whole website consistent and pleasant to explore.  
+This simple and logical organization helps users find what they need quickly and understand the candidate’s background at a glance.  
+
 
 ---
 
 ## Project Analysis - Visual Design
 
-The visual design aims to combine **simplicity, professionalism, and clarity**.  
-The chosen **color palette** uses different shades of blue (#E7FAFF, #B8EAFF, #CAE7FF) to create a calm, trustworthy, and modern atmosphere. This colors are often associated with technology and reliability.  
-The **dark blue** (#00315A) used for titles contrasts well with the light background, highlighting important information such as name and section headings.  
+The visual design focuses on **simplicity, clarity, and professionalism**.  
+The main objective was to create a modern and visually attractive page that reflects my personality and skills as a young developer. The design uses colors, shapes, and typography to communicate a sense of order, confidence, and creativity without being too complex.  
 
-The **typography** selected is *Inter*, a clean and highly legible font, suitable for digital interfaces. It is professional while maintaining a friendly and approachable tone.  
+The color palette is mainly composed of different shades of blue (#E7FAFF, #B8EAFF, #CAE7FF), combined with a dark blue (#00315A) for headings and important text. Blue tones are often used in technology and business because they represent reliability, intelligence, and trust. The mix of light and dark blues helps separate different areas of the page and makes the text easier to read.  
 
-The page follows a **two column hero section** (text on the left, image on the right) with a dynamic diagonal background shape that adds visual interest and depth.  
-Rounded buttons and soft shadows give the interface a modern feel, while maintaining simplicity.  
-Consistency in spacing, alignment, and color ensures readability and aesthetic coherence across all sections.
+The **typography** chosen is *Inter*, a modern and simple font that is easy to read on any screen. It gives the website a professional and friendly look. The use of bold text for titles and normal weight for paragraphs helps create visual hierarchy and makes the information more organized.  
+
+The layout follows a **two-column structure** in the top section, with text on the left and a personal photo on the right. A diagonal blue shape in the background adds depth and dynamism to the header, making it visually interesting. Other sections are centered and evenly spaced to maintain balance.  
+
+Rounded corners, soft shadows, and smooth buttons make the website look modern and clean. The repetition of similar elements, such as margins and colors, creates a sense of unity. Each part of the page feels connected and consistent, giving the user a pleasant and professional browsing experience.  
+Overall, the design helps to reflect my technical background while keeping the website elegant and easy to use.  
 
 ---
 
 ## Tools Used
-- **Figma**: Visual design, mockup.  
+- **Figma**: Visual design and prototyping.  
 - **HTML & CSS**: Front-end implementation.  
 - **GitHub Pages**: Website hosting.  
 
@@ -66,5 +74,4 @@ Consistency in spacing, alignment, and color ensures readability and aesthetic c
 
 ## Live Website
 [Visit the CV Website on GitHub Pages](https://marcespunaa.github.io/CV-MarcEspuna/) <!-- Replace this with your actual published link -->
-
 
