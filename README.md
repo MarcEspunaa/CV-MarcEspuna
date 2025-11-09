@@ -1,8 +1,9 @@
 # Marc Espuña - Hypermedia project Part 1: Create your CV website
 
 ## Project Overview
-This project consists of the design and implementation of a personal CV website of **Marc Espuña**, a full stack developer passionate about technology, artificial intelligence, and automation.
-The website presents Marc’s professional profile, education, skills, and work experience, combining a clean layout with a modern visual design.
+This project is about designing and building my personal CV website as a full stack developer who is passionate about technology, artificial intelligence, and automation.
+The website presents my personal and professional profile, including my education, skills, and work experience.
+My goal was to create a simple and clear page that looks modern and is easy to read and understand.
 
 ---
 
@@ -28,19 +29,18 @@ The website has a **single-page layout**, divided into clear sections that users
 When a visitor clicks on a menu option, the page scrolls smoothly to the selected section, making navigation simple and intuitive.  
 The information is organized in a logical way to guide the user from personal introduction to professional details.  
 
-The first part, **About Me**, gives an overview of Marc Espuña as a person. It describes his personality, motivation, and main interests, helping the reader quickly understand who he is.  
-Then, the **Education** section lists his studies, starting from secondary school to his current Bachelor’s degree in Computer Engineering. It shows his academic progress and interest in technology.  
+The first part, **About Me**, gives an overview of me as a person. It describes my personality, motivation, and main interests, helping the reader quickly understand who I am.  
+Then, the **Education** section lists my studies, starting from secondary school to my current Bachelor’s degree in Computer Engineering. It shows my academic progress and interest in technology.  
 
-The next section, **Skills**, is divided into two categories. The first one, *Technical Skills*, presents his programming knowledge, basic AI understanding, and 3D design abilities. The second one, *Soft Skills*, highlights his teamwork, empathy, and organization skills. This division helps the visitor clearly see both his technical and personal strengths.  
+The next section, **Skills**, is divided into two categories. The first one, *Technical Skills*, presents my programming knowledge, basic AI understanding, and 3D design abilities. The second one, *Soft Skills*, highlights my teamwork, empathy, and organization skills. This division helps the visitor clearly see both my technical and personal strengths.  
 
-The **Experience** section includes a list of his previous jobs, each with a short explanation of his responsibilities and what he learned. This section shows that Marc already has real work experience in different areas.  
+The **Experience** section includes a list of my previous jobs, each with a short explanation of my responsibilities and what I learned. This section shows that I already have real work experience in different areas.  
 
-Finally, the **Contact** section offers his phone number, email address, and location, making it easy for visitors to reach him.  
+Finally, the **Contact** section offers my phone number, email address, and location, making it easy for visitors to reach me.  
 
 The structure follows a natural and professional flow: from personal introduction, to education, skills, experience, and contact information. The page uses similar spacing, color tones, and smooth scrolling to create an easy reading experience.  
 Each section is well separated but visually connected, making the whole website consistent and pleasant to explore.  
-This simple and logical organization helps users find what they need quickly and understand the candidate’s background at a glance.  
-
+This simple and logical organization helps users find what they need quickly and understand my background at a glance.  
 
 ---
 
@@ -74,5 +74,6 @@ Overall, the design helps to reflect my technical background while keeping the w
 
 ## Live Website
 [Visit the CV Website on GitHub Pages](https://marcespunaa.github.io/CV-MarcEspuna/) <!-- Replace this with your actual published link -->
+
 
 
