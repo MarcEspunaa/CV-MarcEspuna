@@ -1,4 +1,4 @@
-# Marc Espuña - Personal CV Website
+# Marc Espuña – Personal CV Website
 
 ## Project Overview
 This project consists of the design and implementation of a personal CV website of **Marc Espuña**, a full stack developer passionate about technology, artificial intelligence, and automation.
@@ -6,7 +6,7 @@ The website presents Marc’s professional profile, education, skills, and work 
 
 ---
 
-## Project Analysis - User Profile
+## Project Analysis – User Profile
 
 ### User Persona
 **Name:** Laura Fernández   
@@ -22,7 +22,7 @@ Laura expects a **professional, structured, and easy-to-navigate** CV website. S
 
 ---
 
-## Project Analysis - Information Architecture
+## Project Analysis – Information Architecture
 
 The website is organized as a **single-page layout**, where each section is clearly differentiated both visually and structurally.  
 The navigation bar allows smooth scrolling between the main areas:
@@ -38,7 +38,7 @@ Smooth scrolling and consistent spacing enhance the navigation experience, makin
 
 ---
 
-## Project Analysis - Visual Design
+## Project Analysis – Visual Design
 
 The visual design aims to combine **simplicity, professionalism, and clarity**.  
 The chosen **color palette** uses different shades of blue (#E7FAFF, #B8EAFF, #CAE7FF) to create a calm, trustworthy, and modern atmosphere. This colors are often associated with technology and reliability.  
